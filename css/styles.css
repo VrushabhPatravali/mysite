@@ -58,7 +58,12 @@ hr {
   margin: 30px auto;
   clear: both;
 }
-
+.prof {
+  margin-left: 12.5rem;
+}
+.ski {
+  margin-right: 12.5rem;
+}
 .skill-row1 {
   width: 50%;
   margin: auto;
